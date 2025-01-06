@@ -9,8 +9,6 @@
 💡 *"Imagination is more important than knowledge."* – Albert Einstein  
 
 Check out my 📸 [Instagram](https://www.instagram.com/amanat_ali_panhwer/) or [Portfolio](https://alph702.github.io/Portfolio/) for more on my projects! 🚀
-
-Let me know if you'd like any further tweaks! 😄
 <!---
 Alph702/Alph702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
