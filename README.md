@@ -8,7 +8,7 @@
 📚 I’m also a huge fan of **reading** and expanding my knowledge  
 💡 *"Imagination is more important than knowledge."* – Albert Einstein  
 
-Check out my 📸 [Instagram](https://www.instagram.com/amanat_ali_panhwer/) or [Portfolio](#) for more on my projects! 🚀
+Check out my 📸 [Instagram](https://www.instagram.com/amanat_ali_panhwer/) or [Portfolio](https://alph702.github.io/Portfolio/) for more on my projects! 🚀
 
 Let me know if you'd like any further tweaks! 😄
 <!---
