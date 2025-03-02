@@ -8,7 +8,9 @@
 📚 I’m also a huge fan of **reading** and expanding my knowledge  
 💡 *"Imagination is more important than knowledge."* – Albert Einstein  
 
-Check out my 📸 [Instagram](https://www.instagram.com/amanat_ali_panhwer/) or [Portfolio](https://alph702.github.io/Portfolio/) for more on my projects! 🚀
+🔥 Check out my 📸 [Instagram](https://www.instagram.com/amanat_ali_panhwer/) or 🎨 [Portfolio](https://alph702.github.io/Portfolio/) for more on my projects! 🚀✨  
+
+💡 If you're curious about what I'm working on right now, take a peek at my [blog](https://amanatalipanhwer.pythonanywhere.com/)! 👀📝"
 <!---
 Alph702/Alph702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
